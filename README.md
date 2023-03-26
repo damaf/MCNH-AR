@@ -11,9 +11,16 @@ This package contains the software programs designed for MCNH-AR model. It inclu
  * Sklearn
  * Tick
 
+## MCNH-AR_C1 
 
-## Launch the toy example
+### Launch model learning on anesthesia dataset
 ```{python}
-  python3 -O run_toy_example1.py
-  python3 -O run_toy_example2.py
+.....
+```
+
+## MCNH-AR_C2
+
+### Launch model learning on anesthesia dataset
+```{python}
+......
 ```
