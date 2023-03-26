@@ -9,6 +9,7 @@ This package contains the software programs designed for NH-MSVAR model. It incl
  * Pickle
  * Concurrent.futures
  * Sklearn
+ * Tick
 
 
 ## Execution instructions
