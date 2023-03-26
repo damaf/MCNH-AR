@@ -32,4 +32,4 @@ python3 -O mcnh-ar-C2_training.py train_data_dir nb_time_series model_output_dir
   * model_output_dir: the name of the directory in which model output is saved within a serialized file
   * ar_order: the order of the auto-regressive process (>= 0)
   * nb_states: the number of states to be considered (>= 2)
-  * features_file: the file that contains the context variable $\mathcal{C}_2$ extracted based on Hawkes process ()
+  * features_file: the file that contains the context variable $\mathcal{C}_2$ extracted based on Hawkes process (file model_outputs/expKernel/5-event-types/)
