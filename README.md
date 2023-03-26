@@ -11,14 +11,14 @@ This package contains the software programs designed for MCNH-AR model. It inclu
  * Sklearn
  * Tick
 
-## MCNH-AR model: context variable $\mathcal{C}_1$ 
+## MCNH-AR model: context variables $\mathcal{C}_1$ 
 
 ### Launch model learning on anesthesia dataset
 ```{python}
 .....
 ```
 
-## MCNH-AR model: context variable $\mathcal{C}_2$ 
+## MCNH-AR model: context variables $\mathcal{C}_2$ 
 
 ### Launch model learning on anesthesia dataset
 ```{python}
