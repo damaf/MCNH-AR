@@ -1,7 +1,7 @@
-# NH-MSVAR
+# MCNH-AR
 
-## Non-Homogeneous Markov Switching Vector Auto-Regressive (NH-MSVAR)
-This package contains the software programs designed for NH-MSVAR model. It includes a learning algorithm, a prediction function and a state inference algorithm.
+## Markov Chain Non-Homogeneous Auto-Regressive (MCNH-AR)
+This package contains the software programs designed for MCNH-AR model. It includes a learning algorithm, a prediction function and a state inference algorithm.
 
 ## Requirements
  * Numpy
