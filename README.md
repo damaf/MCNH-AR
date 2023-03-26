@@ -26,3 +26,10 @@ python3 -O mcnh-ar-C2_training.py train_data_dir nb_time_series model_output_dir
 ```
 
 ## Parameters' definition
+
+  * train_data_dir: 
+  * nb_time_series: 
+  * model_output_dir: 
+  * ar_order: 
+  * nb_states: 
+  * features_file: 
