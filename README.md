@@ -14,5 +14,6 @@ This package contains the software programs designed for NH-MSVAR model. It incl
 
 ## Launch the toy example
 ```{python}
-  python3 -O run_toy_example.py
+  python3 -O run_toy_example1.py
+  python3 -O run_toy_example2.py
 ```
