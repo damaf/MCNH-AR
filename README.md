@@ -7,7 +7,7 @@ This package contains the software programs designed for NH-MSVAR model. It incl
  * Numpy
  * Scipy
  * Pickle
- * Concurrent.futures
+ * Futures
  * Sklearn
  * Tick
 
