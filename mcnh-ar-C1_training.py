@@ -21,8 +21,7 @@ Created on June 22 2022
 
 import os
 import sys
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), \
-                            "src")))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "src")))
 
 import time
 import pickle
