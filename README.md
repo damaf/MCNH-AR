@@ -1,6 +1,6 @@
 # NH-MSVAR
 
-## Non-Homogeneous Markov Switching Vector Auto-Regressive
+## Non-Homogeneous Markov Switching Vector Auto-Regressive (NH-MSVAR)
 This package contains the software programs designed for NH-MSVAR model. It includes a learning algorithm, a prediction function and a state inference algorithm.
 
 ## Requirements
