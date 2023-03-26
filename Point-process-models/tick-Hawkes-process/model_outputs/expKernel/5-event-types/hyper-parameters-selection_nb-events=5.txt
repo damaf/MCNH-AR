@@ -1,0 +1,2566 @@
+Exponential Kernel Hawkes: hyper-parameters selection begins.....
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  7.63e-11 |  0.00e+00
+Done solving using GD in 0.03684687614440918 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.04573941230773926 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.03e-02 |  2.91e-16 |  3.07e-16
+Done solving using GD in 0.046530961990356445 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.04599285125732422 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.25e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.0517420768737793 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  3.81e-11 |  2.55e-16
+Done solving using GD in 0.0255429744720459 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      381 | -1.29e-01 |  9.54e-12 |  4.29e-16
+Done solving using GD in 0.09544014930725098 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.028583049774169922 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.022358179092407227 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.02e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.01950359344482422 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.25e-01 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.021724224090576172 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      361 | -1.29e-01 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.04936814308166504 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  9.77e-09 |  2.55e-16
+Done solving using GD in 0.024473190307617188 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.020374298095703125 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.018027544021606445 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.02e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.027136802673339844 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.25e-01 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.03518557548522949 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  1.91e-11 |  0.00e+00
+Done solving using GD in 0.02875661849975586 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.02702164649963379 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      361 | -1.29e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.07413935661315918 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.027239084243774414 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.04e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.030347824096679688 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     3011 | -1.30e-01 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.38744091987609863 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.25e-01 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.035343170166015625 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  9.77e-09 |  2.55e-16
+Done solving using GD in 0.027888059616088867 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.02746725082397461 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      331 | -1.29e-01 |  3.81e-11 |  2.79e-15
+Done solving using GD in 0.07503151893615723 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  3.73e-14 |  4.32e-16
+Done solving using GD in 0.027161598205566406 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -9.02e-02 |  4.66e-15 |  4.00e-15
+Done solving using GD in 0.03476405143737793 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.25e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.0339970588684082 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      351 | -1.30e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.0779569149017334 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.026870012283325195 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  0.00e+00
+Done solving using GD in 0.026712656021118164 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.027105093002319336 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     3071 | -1.30e-01 |  1.22e-09 |  6.40e-16
+Done solving using GD in 0.40216779708862305 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.02e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.060131072998046875 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.26e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.05370926856994629 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      331 | -1.30e-01 |  9.54e-12 |  6.43e-16
+Done solving using GD in 0.10430192947387695 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     3081 | -1.30e-01 |  1.56e-07 |  8.46e-14
+Done solving using GD in 0.47222256660461426 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.26e-04 |  4.88e-09 |  1.27e-16
+Done solving using GD in 0.04166388511657715 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     2841 | -1.31e-01 |  1.22e-09 |  4.25e-16
+Done solving using GD in 0.4551515579223633 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.054950714111328125 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.46e-16 |  2.16e-16
+Done solving using GD in 0.08607125282287598 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.01e-02 |  2.33e-15 |  2.00e-15
+Done solving using GD in 0.052704811096191406 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.26e-01 |  5.96e-13 |  8.83e-16
+Done solving using GD in 0.06320595741271973 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     4361 | -1.32e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.6822750568389893 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     2201 | -1.31e-01 |  3.81e-11 |  0.00e+00
+Done solving using GD in 0.5247292518615723 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     3781 | -1.33e-01 |  1.22e-09 |  3.55e-15
+Done solving using GD in 0.6546447277069092 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     3491 | -1.34e-01 |  3.91e-08 |  1.49e-13
+Done solving using GD in 0.7229404449462891 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.26e-04 |  9.54e-12 |  0.00e+00
+Done solving using GD in 0.09067416191101074 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      351 | -1.30e-01 |  1.19e-12 |  0.00e+00
+Done solving using GD in 0.2790670394897461 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     5551 | -1.31e-01 |  6.10e-10 |  4.24e-16
+Done solving using GD in 1.0493290424346924 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.03396248817443848 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1621 | -1.31e-01 |  3.13e-07 |  4.89e-13
+Done solving using GD in 0.5624065399169922 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.04178214073181152 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.01e-02 |  2.33e-15 |  2.00e-15
+Done solving using GD in 0.030198335647583008 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       71 | -1.26e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.07121920585632324 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     9161 | -1.30e-01 |  6.10e-10 |  0.00e+00
+Done solving using GD in 1.4511802196502686 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      341 | -1.30e-01 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.14545559883117676 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1431 | -1.32e-01 |  1.22e-09 |  2.95e-15
+Done solving using GD in 0.5599267482757568 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     3231 | -1.36e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 1.046285629272461 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1251 | -1.32e-01 |  3.91e-08 |  1.45e-13
+Done solving using GD in 0.40824317932128906 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     3161 | -1.37e-01 |  6.10e-10 |  3.24e-15
+Done solving using GD in 1.0835702419281006 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     3191 | -1.38e-01 |  1.22e-09 |  7.02e-15
+Done solving using GD in 1.0509276390075684 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.26e-04 |  3.81e-11 |  0.00e+00
+Done solving using GD in 0.02514934539794922 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.14e-03 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.02543330192565918 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.05711698532104492 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.04e-02 |  1.16e-15 |  9.22e-16
+Done solving using GD in 0.05000019073486328 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      121 | -1.25e-01 |  1.49e-13 |  1.22e-15
+Done solving using GD in 0.0382237434387207 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      371 | -1.30e-01 |  4.77e-12 |  2.14e-16
+Done solving using GD in 0.2617948055267334 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1111 | -1.33e-01 |  2.38e-12 |  0.00e+00
+Done solving using GD in 0.4612138271331787 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     3061 | -1.40e-01 |  3.05e-10 |  1.79e-15
+Done solving using GD in 1.0808453559875488 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.26e-04 |  4.88e-09 |  0.00e+00
+Done solving using GD in 0.045682430267333984 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.14e-03 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.04812145233154297 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.031644344329833984 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.01e-02 |  1.49e-13 |  1.23e-13
+Done solving using GD in 0.026816606521606445 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.25e-01 |  7.45e-14 |  2.21e-16
+Done solving using GD in 0.03455305099487305 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      381 | -1.30e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.17156124114990234 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1041 | -1.34e-01 |  1.19e-12 |  0.00e+00
+Done solving using GD in 0.3118133544921875 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     3941 | -1.41e-01 |  1.56e-07 |  4.89e-13
+Done solving using GD in 0.8051905632019043 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.27e-04 |  7.63e-11 |  2.54e-16
+Done solving using GD in 0.025446653366088867 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.15e-03 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.026448726654052734 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.22e-02 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.02581191062927246 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.97e-02 |  7.28e-17 |  0.00e+00
+Done solving using GD in 0.025810956954956055 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.26e-01 |  9.31e-15 |  0.00e+00
+Done solving using GD in 0.04769444465637207 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      421 | -1.32e-01 |  1.91e-11 |  2.10e-16
+Done solving using GD in 0.22974681854248047 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      621 | -1.42e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.1397566795349121 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     2941 | -1.51e-01 |  2.98e-13 |  0.00e+00
+Done solving using GD in 0.8605043888092041 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.30e-04 |  3.05e-10 |  0.00e+00
+Done solving using GD in 0.025806665420532227 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.17e-03 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.02883172035217285 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.23e-02 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.02616429328918457 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.99e-02 |  9.31e-15 |  1.39e-16
+Done solving using GD in 0.0371394157409668 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.27e-01 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.057703495025634766 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      331 | -1.36e-01 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.13868021965026855 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      441 | -1.50e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.17335987091064453 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1771 | -1.58e-01 |  3.05e-10 |  7.02e-16
+Done solving using GD in 0.6911168098449707 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.32e-04 |  9.54e-12 |  0.00e+00
+Done solving using GD in 0.0545496940612793 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.19e-03 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.02512049674987793 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.25e-02 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.03413224220275879 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -9.99e-02 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.03831815719604492 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       71 | -1.28e-01 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.03331565856933594 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      271 | -1.41e-01 |  1.53e-10 |  1.77e-15
+Done solving using GD in 0.10430026054382324 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      331 | -1.58e-01 |  5.96e-13 |  0.00e+00
+Done solving using GD in 0.15462183952331543 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1491 | -1.67e-01 |  6.10e-10 |  1.33e-15
+Done solving using GD in 0.3491394519805908 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.34e-04 |  7.63e-11 |  1.25e-16
+Done solving using GD in 0.04339265823364258 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.21e-03 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.09666204452514648 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.26e-02 |  1.46e-16 |  2.13e-16
+Done solving using GD in 0.02663731575012207 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.00e-01 |  7.45e-14 |  0.00e+00
+Done solving using GD in 0.057559967041015625 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.29e-01 |  2.98e-13 |  4.30e-16
+Done solving using GD in 0.04898524284362793 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      171 | -1.47e-01 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.10928606986999512 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      401 | -1.68e-01 |  9.54e-12 |  6.62e-16
+Done solving using GD in 0.1211404800415039 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1621 | -1.74e-01 |  1.22e-09 |  1.12e-15
+Done solving using GD in 0.34645533561706543 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.36e-04 |  9.54e-12 |  0.00e+00
+Done solving using GD in 0.024760007858276367 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.23e-03 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.031122922897338867 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.27e-02 |  1.46e-16 |  2.12e-16
+Done solving using GD in 0.06455421447753906 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.00e-01 |  2.98e-13 |  6.22e-15
+Done solving using GD in 0.06831789016723633 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.31e-01 |  2.98e-13 |  2.13e-16
+Done solving using GD in 0.040665388107299805 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      101 | -1.53e-01 |  9.54e-12 |  1.45e-15
+Done solving using GD in 0.03852200508117676 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      291 | -1.75e-01 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.0825951099395752 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.38e-04 |  3.05e-10 |  2.47e-16
+Done solving using GD in 0.029469966888427734 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1861 | -1.80e-01 |  2.50e-06 |  9.80e-13
+Done solving using GD in 0.6201066970825195 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.26e-03 |  7.28e-17 |  0.00e+00
+Done solving using GD in 0.02970290184020996 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.29e-02 |  7.28e-17 |  0.00e+00
+Done solving using GD in 0.026261091232299805 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.01e-01 |  3.64e-17 |  0.00e+00
+Done solving using GD in 0.05608844757080078 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.32e-01 |  7.45e-14 |  0.00e+00
+Done solving using GD in 0.06556153297424316 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       81 | -1.58e-01 |  7.45e-14 |  0.00e+00
+Done solving using GD in 0.034871578216552734 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      291 | -1.80e-01 |  5.96e-13 |  1.54e-16
+Done solving using GD in 0.13046479225158691 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1981 | -1.84e-01 |  2.98e-13 |  0.00e+00
+Done solving using GD in 0.6662867069244385 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.40e-04 |  3.81e-11 |  0.00e+00
+Done solving using GD in 0.08350682258605957 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.27e-03 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.07278180122375488 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.30e-02 |  4.66e-15 |  2.10e-16
+Done solving using GD in 0.02598118782043457 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.02e-01 |  3.64e-17 |  0.00e+00
+Done solving using GD in 0.04407787322998047 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.34e-01 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.07018184661865234 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       71 | -1.63e-01 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.033808231353759766 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      271 | -1.85e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.08520174026489258 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1771 | -1.88e-01 |  6.10e-10 |  0.00e+00
+Done solving using GD in 0.4424285888671875 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.42e-04 |  1.19e-12 |  0.00e+00
+Done solving using GD in 0.025712251663208008 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.29e-03 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.06760239601135254 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.31e-02 |  1.46e-16 |  2.09e-16
+Done solving using GD in 0.0723729133605957 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -9.73e-02 |  2.38e-12 |  6.35e-13
+Done solving using GD in 0.05354952812194824 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.36e-01 |  1.49e-13 |  2.05e-16
+Done solving using GD in 0.07426309585571289 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       71 | -1.67e-01 |  9.31e-15 |  1.66e-16
+Done solving using GD in 0.03184080123901367 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      271 | -1.89e-01 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.12471723556518555 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1561 | -1.91e-01 |  1.22e-09 |  0.00e+00
+Done solving using GD in 0.43480587005615234 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.44e-04 |  1.91e-11 |  0.00e+00
+Done solving using GD in 0.10818910598754883 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.31e-03 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.05265617370605469 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.33e-02 |  7.28e-17 |  0.00e+00
+Done solving using GD in 0.025168180465698242 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -9.66e-02 |  3.64e-17 |  0.00e+00
+Done solving using GD in 0.031054019927978516 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.37e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.030519723892211914 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       71 | -1.71e-01 |  7.45e-14 |  0.00e+00
+Done solving using GD in 0.0630033016204834 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      271 | -1.91e-01 |  5.96e-13 |  0.00e+00
+Done solving using GD in 0.18964600563049316 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+     1251 | -1.94e-01 |  5.00e-06 |  4.67e-14
+Done solving using GD in 0.309814453125 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.56e-04 |  4.88e-09 |  3.56e-16
+Done solving using GD in 0.04164314270019531 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.43e-03 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.04694867134094238 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.41e-02 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.1379237174987793 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -9.82e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.11078214645385742 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       81 | -1.50e-01 |  2.98e-13 |  0.00e+00
+Done solving using GD in 0.12433743476867676 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       81 | -1.86e-01 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.034362077713012695 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      321 | -1.97e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.16741347312927246 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      811 | -1.98e-01 |  7.63e-11 |  0.00e+00
+Done solving using GD in 0.1338047981262207 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.62e-04 |  9.54e-12 |  0.00e+00
+Done solving using GD in 0.12699389457702637 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.48e-03 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.02990436553955078 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.46e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.06436300277709961 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.01e-01 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.06863927841186523 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       81 | -1.55e-01 |  1.91e-11 |  1.13e-13
+Done solving using GD in 0.07409405708312988 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      101 | -1.90e-01 |  1.19e-12 |  1.46e-16
+Done solving using GD in 0.08271670341491699 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      271 | -1.98e-01 |  1.22e-09 |  1.26e-15
+Done solving using GD in 0.22509527206420898 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      681 | -1.99e-01 |  3.91e-08 |  1.40e-16
+Done solving using GD in 0.1937108039855957 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.65e-04 |  1.91e-11 |  0.00e+00
+Done solving using GD in 0.03360104560852051 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.51e-03 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.0628814697265625 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.48e-02 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.026057958602905273 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.02e-01 |  3.64e-17 |  0.00e+00
+Done solving using GD in 0.0512542724609375 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       81 | -1.59e-01 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.03503298759460449 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       81 | -1.91e-01 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.03139925003051758 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      171 | -1.99e-01 |  6.10e-10 |  8.39e-16
+Done solving using GD in 0.04369401931762695 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      451 | -1.99e-01 |  3.81e-11 |  0.00e+00
+Done solving using GD in 0.09780311584472656 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.66e-04 |  3.81e-11 |  0.00e+00
+Done solving using GD in 0.07430195808410645 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.53e-03 |  1.46e-16 |  3.83e-16
+Done solving using GD in 0.02600550651550293 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.50e-02 |  4.55e-18 |  0.00e+00
+Done solving using GD in 0.037142276763916016 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.05e-01 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.030383825302124023 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.62e-01 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.02856588363647461 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       81 | -1.92e-01 |  2.44e-09 |  4.25e-13
+Done solving using GD in 0.0383453369140625 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      131 | -1.99e-01 |  9.54e-12 |  0.00e+00
+Done solving using GD in 0.05710482597351074 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      281 | -2.00e-01 |  5.96e-13 |  0.00e+00
+Done solving using GD in 0.2313065528869629 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.67e-04 |  1.91e-11 |  0.00e+00
+Done solving using GD in 0.026701927185058594 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.54e-03 |  9.09e-18 |  0.00e+00
+Done solving using GD in 0.028521299362182617 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.51e-02 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.0532224178314209 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.07e-01 |  3.64e-17 |  0.00e+00
+Done solving using GD in 0.06229972839355469 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.64e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.028047561645507812 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.93e-01 |  1.91e-11 |  3.88e-15
+Done solving using GD in 0.028395891189575195 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      101 | -1.99e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.0981590747833252 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      161 | -2.00e-01 |  1.25e-06 |  7.58e-14
+Done solving using GD in 0.07669806480407715 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.68e-04 |  1.91e-11 |  0.00e+00
+Done solving using GD in 0.041487932205200195 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.54e-03 |  9.09e-18 |  0.00e+00
+Done solving using GD in 0.030931949615478516 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.51e-02 |  4.66e-15 |  1.98e-16
+Done solving using GD in 0.026108264923095703 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.08e-01 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.04332280158996582 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.66e-01 |  4.66e-15 |  1.68e-16
+Done solving using GD in 0.057785749435424805 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       71 | -1.94e-01 |  1.19e-12 |  4.30e-16
+Done solving using GD in 0.053209543228149414 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       91 | -1.99e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.04428458213806152 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      151 | -2.00e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.041890859603881836 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.69e-04 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.04719853401184082 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.55e-03 |  9.09e-18 |  0.00e+00
+Done solving using GD in 0.07395005226135254 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.52e-02 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.04637956619262695 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.10e-01 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.0370025634765625 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.67e-01 |  3.81e-11 |  1.80e-13
+Done solving using GD in 0.029311180114746094 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.94e-01 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.07138204574584961 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       81 | -1.99e-01 |  6.10e-10 |  2.93e-15
+Done solving using GD in 0.07303619384765625 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      131 | -2.00e-01 |  6.10e-10 |  0.00e+00
+Done solving using GD in 0.059594154357910156 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.69e-04 |  9.54e-12 |  0.00e+00
+Done solving using GD in 0.07284426689147949 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.55e-03 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.13902497291564941 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.53e-02 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.028655529022216797 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.12e-01 |  9.31e-15 |  0.00e+00
+Done solving using GD in 0.05745244026184082 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.69e-01 |  7.45e-14 |  1.64e-16
+Done solving using GD in 0.02904486656188965 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.95e-01 |  9.54e-12 |  2.56e-15
+Done solving using GD in 0.02797675132751465 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      121 | -1.99e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.05961894989013672 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      131 | -2.00e-01 |  9.77e-09 |  2.78e-16
+Done solving using GD in 0.05453610420227051 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.70e-04 |  2.44e-09 |  0.00e+00
+Done solving using GD in 0.024644851684570312 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.56e-03 |  1.46e-16 |  3.80e-16
+Done solving using GD in 0.1357433795928955 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.53e-02 |  1.46e-16 |  1.96e-16
+Done solving using GD in 0.05087780952453613 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.13e-01 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.046777963638305664 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.71e-01 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.08461999893188477 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.96e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.03273200988769531 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       91 | -2.00e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.10151243209838867 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      121 | -2.00e-01 |  4.77e-12 |  0.00e+00
+Done solving using GD in 0.05555534362792969 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.80e-04 |  7.63e-11 |  2.26e-16
+Done solving using GD in 0.025043249130249023 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.66e-03 |  1.46e-16 |  3.72e-16
+Done solving using GD in 0.05237841606140137 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.64e-02 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.04247403144836426 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.22e-01 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.05485653877258301 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.88e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.05413985252380371 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -2.08e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.030782222747802734 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -2.10e-01 |  1.19e-12 |  0.00e+00
+Done solving using GD in 0.04721784591674805 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       71 | -2.11e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.13150882720947266 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.94e-04 |  1.91e-11 |  0.00e+00
+Done solving using GD in 0.03318977355957031 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.80e-03 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.038611650466918945 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.78e-02 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.026447296142578125 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.24e-01 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.028294086456298828 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.99e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.030371904373168945 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -2.16e-01 |  1.91e-11 |  2.70e-15
+Done solving using GD in 0.05167412757873535 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -2.18e-01 |  2.44e-09 |  0.00e+00
+Done solving using GD in 0.05269265174865723 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -2.18e-01 |  2.44e-09 |  4.33e-15
+Done solving using GD in 0.15093660354614258 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.07e-04 |  2.44e-09 |  2.14e-16
+Done solving using GD in 0.0509037971496582 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.94e-03 |  9.09e-18 |  0.00e+00
+Done solving using GD in 0.02617621421813965 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.90e-02 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.10396695137023926 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.26e-01 |  7.28e-17 |  0.00e+00
+Done solving using GD in 0.07665681838989258 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -2.03e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.07734227180480957 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -2.17e-01 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.03087615966796875 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -2.19e-01 |  7.81e-08 |  8.64e-14
+Done solving using GD in 0.05312013626098633 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -2.19e-01 |  2.00e-05 |  2.96e-13
+Done solving using GD in 0.02560138702392578 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.18e-04 |  3.05e-10 |  2.09e-16
+Done solving using GD in 0.05285358428955078 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.04e-03 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.025987625122070312 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.00e-02 |  9.31e-15 |  1.74e-16
+Done solving using GD in 0.042488813400268555 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.39e-01 |  7.45e-14 |  0.00e+00
+Done solving using GD in 0.07729649543762207 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -2.02e-01 |  9.31e-15 |  0.00e+00
+Done solving using GD in 0.030736684799194336 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -2.14e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.06241869926452637 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -2.16e-01 |  6.10e-10 |  2.57e-16
+Done solving using GD in 0.0352778434753418 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -2.16e-01 |  4.88e-09 |  2.57e-16
+Done solving using GD in 0.0553891658782959 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.25e-04 |  2.38e-12 |  0.00e+00
+Done solving using GD in 0.02275824546813965 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.11e-03 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.05864286422729492 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.06e-02 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.04149675369262695 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.40e-01 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.061466217041015625 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.99e-01 |  9.31e-15 |  0.00e+00
+Done solving using GD in 0.06539106369018555 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -2.09e-01 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.04503226280212402 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -2.10e-01 |  9.54e-12 |  0.00e+00
+Done solving using GD in 0.02631545066833496 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -2.10e-01 |  3.13e-07 |  6.62e-16
+Done solving using GD in 0.08296370506286621 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.29e-04 |  7.63e-11 |  0.00e+00
+Done solving using GD in 0.04339599609375 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.15e-03 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.05555987358093262 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.08e-02 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.025658369064331055 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.40e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.04350900650024414 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.93e-01 |  1.49e-13 |  1.01e-15
+Done solving using GD in 0.0602264404296875 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -2.01e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.07899045944213867 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -2.02e-01 |  2.44e-09 |  0.00e+00
+Done solving using GD in 0.038147687911987305 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -2.02e-01 |  2.56e-03 |  3.88e-14
+Done solving using GD in 0.05305218696594238 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.31e-04 |  2.44e-09 |  2.04e-16
+Done solving using GD in 0.05059242248535156 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.17e-03 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.05199599266052246 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.04e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.029206037521362305 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.36e-01 |  1.49e-13 |  1.12e-14
+Done solving using GD in 0.047624826431274414 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.87e-01 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.027156591415405273 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.94e-01 |  1.19e-12 |  0.00e+00
+Done solving using GD in 0.03981280326843262 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.95e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.0266571044921875 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.95e-01 |  2.38e-12 |  0.00e+00
+Done solving using GD in 0.05097794532775879 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.30e-04 |  1.91e-11 |  0.00e+00
+Done solving using GD in 0.05001950263977051 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.16e-03 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.1192626953125 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.98e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.025517702102661133 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.35e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.0501251220703125 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.80e-01 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.05277252197265625 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.87e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.03607916831970215 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.87e-01 |  9.54e-12 |  0.00e+00
+Done solving using GD in 0.02620840072631836 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.88e-01 |  2.38e-12 |  0.00e+00
+Done solving using GD in 0.04118537902832031 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.27e-04 |  2.44e-09 |  0.00e+00
+Done solving using GD in 0.027422666549682617 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -5.13e-03 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.027299880981445312 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.85e-02 |  3.73e-14 |  4.47e-14
+Done solving using GD in 0.056699514389038086 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.29e-01 |  2.91e-16 |  0.00e+00
+Done solving using GD in 0.02496194839477539 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.74e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.029551267623901367 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.80e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.06665539741516113 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.81e-01 |  1.53e-10 |  0.00e+00
+Done solving using GD in 0.0867304801940918 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.81e-01 |  4.88e-09 |  0.00e+00
+Done solving using GD in 0.02598881721496582 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.73e-04 |  4.88e-09 |  0.00e+00
+Done solving using GD in 0.028247833251953125 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.59e-03 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.030672550201416016 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.53e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.04529070854187012 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -9.88e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.12952637672424316 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.36e-01 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.02747654914855957 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.40e-01 |  7.45e-14 |  0.00e+00
+Done solving using GD in 0.03233075141906738 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.41e-01 |  1.56e-07 |  1.55e-13
+Done solving using GD in 0.05435657501220703 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.41e-01 |  3.13e-07 |  1.97e-15
+Done solving using GD in 0.026559829711914062 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.39e-04 |  1.22e-09 |  0.00e+00
+Done solving using GD in 0.052767038345336914 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.26e-03 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.052464962005615234 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.29e-02 |  7.28e-17 |  0.00e+00
+Done solving using GD in 0.0364527702331543 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.28e-01 |  9.31e-15 |  0.00e+00
+Done solving using GD in 0.024477720260620117 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.79e-02 |  1.46e-16 |  1.42e-16
+Done solving using GD in 0.07496786117553711 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.31e-01 |  5.96e-13 |  0.00e+00
+Done solving using GD in 0.03716087341308594 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.32e-01 |  1.22e-09 |  1.90e-15
+Done solving using GD in 0.035015106201171875 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.32e-01 |  1.95e-08 |  2.11e-16
+Done solving using GD in 0.035555362701416016 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.29e-04 |  4.88e-09 |  1.27e-16
+Done solving using GD in 0.028502464294433594 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.16e-03 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.024932861328125 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.23e-02 |  7.28e-17 |  0.00e+00
+Done solving using GD in 0.09498333930969238 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.95e-02 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.03643941879272461 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.26e-01 |  7.45e-14 |  1.10e-15
+Done solving using GD in 0.028775453567504883 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.30e-01 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.04049992561340332 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.052068471908569336 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  7.63e-11 |  0.00e+00
+Done solving using GD in 0.07629203796386719 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.26e-04 |  1.95e-08 |  0.00e+00
+Done solving using GD in 0.023044347763061523 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.14e-03 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.0400233268737793 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  5.82e-16 |  0.00e+00
+Done solving using GD in 0.08182382583618164 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.92e-02 |  3.64e-17 |  0.00e+00
+Done solving using GD in 0.03624367713928223 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.26e-01 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.061821699142456055 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.29e-01 |  7.45e-14 |  0.00e+00
+Done solving using GD in 0.023697853088378906 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.53e-10 |  4.28e-16
+Done solving using GD in 0.04578256607055664 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.19e-12 |  0.00e+00
+Done solving using GD in 0.06149554252624512 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  1.22e-09 |  0.00e+00
+Done solving using GD in 0.04348564147949219 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.05197930335998535 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.46e-16 |  2.16e-16
+Done solving using GD in 0.035231828689575195 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.90e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.040975332260131836 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.26e-01 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.023099660873413086 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.29e-01 |  2.38e-12 |  2.14e-16
+Done solving using GD in 0.02318286895751953 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.0838022232055664 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  4.77e-12 |  0.00e+00
+Done solving using GD in 0.028639554977416992 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  3.05e-10 |  0.00e+00
+Done solving using GD in 0.032703399658203125 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  1.86e-14 |  2.10e-16
+Done solving using GD in 0.055445194244384766 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.08038115501403809 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.89e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.02332305908203125 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.26e-01 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.03224658966064453 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.29e-01 |  4.77e-12 |  6.43e-16
+Done solving using GD in 0.028377056121826172 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  5.96e-13 |  0.00e+00
+Done solving using GD in 0.025477170944213867 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.04371070861816406 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  1.27e-16
+Done solving using GD in 0.025343894958496094 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.023612260818481445 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  1.86e-14 |  2.10e-16
+Done solving using GD in 0.043973684310913086 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.89e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.02604508399963379 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.26e-01 |  7.45e-14 |  1.10e-15
+Done solving using GD in 0.06701803207397461 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.29e-01 |  9.54e-12 |  1.71e-15
+Done solving using GD in 0.02762746810913086 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.026710987091064453 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.95e-08 |  2.14e-16
+Done solving using GD in 0.029689311981201172 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  1.22e-09 |  0.00e+00
+Done solving using GD in 0.02066802978515625 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.03607916831970215 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.03029632568359375 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.89e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.03711843490600586 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.26e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.024263858795166016 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.29e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.03666353225708008 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.03526163101196289 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.95e-08 |  2.14e-16
+Done solving using GD in 0.04931163787841797 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  9.77e-09 |  2.55e-16
+Done solving using GD in 0.048862457275390625 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.07641005516052246 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.03914666175842285 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.88e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.07589173316955566 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.26e-01 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.0231630802154541 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.29e-01 |  4.77e-12 |  6.43e-16
+Done solving using GD in 0.03602099418640137 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.02614140510559082 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.95e-08 |  2.14e-16
+Done solving using GD in 0.027299880981445312 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  1.22e-09 |  0.00e+00
+Done solving using GD in 0.03595137596130371 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  7.45e-14 |  2.10e-16
+Done solving using GD in 0.0973050594329834 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.03065180778503418 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.87e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.06740975379943848 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.26e-01 |  7.45e-14 |  1.55e-15
+Done solving using GD in 0.03478050231933594 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.29e-01 |  2.98e-13 |  0.00e+00
+Done solving using GD in 0.0223386287689209 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  2.98e-13 |  0.00e+00
+Done solving using GD in 0.07024455070495605 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  9.54e-12 |  0.00e+00
+Done solving using GD in 0.08178186416625977 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  4.88e-09 |  0.00e+00
+Done solving using GD in 0.06774616241455078 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.044358015060424805 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.026200532913208008 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.034505367279052734 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.26e-01 |  3.73e-14 |  6.62e-16
+Done solving using GD in 0.04227733612060547 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.29e-01 |  7.63e-11 |  1.63e-14
+Done solving using GD in 0.021071195602416992 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  5.96e-13 |  0.00e+00
+Done solving using GD in 0.047951459884643555 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  7.81e-08 |  1.50e-15
+Done solving using GD in 0.09953022003173828 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  2.55e-16
+Done solving using GD in 0.049932003021240234 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  7.45e-14 |  4.20e-16
+Done solving using GD in 0.04583001136779785 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.021234750747680664 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.87e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.045777320861816406 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.26e-01 |  4.77e-12 |  9.25e-14
+Done solving using GD in 0.021957874298095703 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.29e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.07419729232788086 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.22e-09 |  2.35e-15
+Done solving using GD in 0.06081032752990723 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  2.44e-09 |  0.00e+00
+Done solving using GD in 0.028810739517211914 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  2.55e-16
+Done solving using GD in 0.03968358039855957 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.021065473556518555 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.025838613510131836 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.87e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.0892479419708252 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.26e-01 |  1.19e-12 |  2.32e-14
+Done solving using GD in 0.037966012954711914 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -1.29e-01 |  3.05e-10 |  6.69e-14
+Done solving using GD in 0.0327610969543457 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  3.05e-10 |  6.41e-16
+Done solving using GD in 0.032494544982910156 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.56e-07 |  3.63e-15
+Done solving using GD in 0.021697521209716797 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  1.22e-09 |  0.00e+00
+Done solving using GD in 0.04190802574157715 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  1.86e-14 |  2.10e-16
+Done solving using GD in 0.020771503448486328 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.05824637413024902 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.04803466796875 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.26e-01 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.07095670700073242 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.29e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.021970748901367188 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.56e-07 |  3.49e-13
+Done solving using GD in 0.02701735496520996 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.53e-10 |  0.00e+00
+Done solving using GD in 0.03666186332702637 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  2.55e-16
+Done solving using GD in 0.020131826400756836 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.04557538032531738 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.032670021057128906 seconds
+decay = 0.008, C = 10000
+decay = 0.007, C = 10000
+decay = 0.006, C = 10000
+decay = 0.008, C = 1000
+decay = 0.007, C = 1000
+decay = 0.001, C = 10000
+decay = 0.008, C = 100
+decay = 0.006, C = 1000
+decay = 0.002, C = 10000
+decay = 0.008, C = 10
+decay = 0.005, C = 10000
+decay = 0.005, C = 1000
+decay = 0.004, C = 10000
+decay = 0.007, C = 100
+decay = 0.003, C = 10000
+decay = 0.004, C = 1000
+decay = 0.003, C = 1000
+decay = 0.002, C = 1000
+decay = 0.008, C = 0.1
+decay = 0.008, C = 1
+decay = 0.006, C = 100
+decay = 0.008, C = 0.01
+decay = 0.007, C = 10
+decay = 0.001, C = 1000
+decay = 0.008, C = 0.001
+decay = 0.005, C = 100
+decay = 0.004, C = 100
+decay = 0.006, C = 10
+decay = 0.003, C = 100
+decay = 0.009000000000000001, C = 100
+decay = 0.009000000000000001, C = 10000
+decay = 0.007, C = 1
+decay = 0.007, C = 0.1
+decay = 0.002, C = 100
+decay = 0.007, C = 0.01
+decay = 0.009000000000000001, C = 1000
+decay = 0.007, C = 0.001
+decay = 0.006, C = 1
+decay = 0.001, C = 100
+decay = 0.006, C = 0.001
+decay = 0.006, C = 0.01
+decay = 0.006, C = 0.1
+decay = 0.005, C = 10
+decay = 0.009000000000000001, C = 0.01
+decay = 0.005, C = 1
+decay = 0.009000000000000001, C = 0.001
+decay = 0.005, C = 0.1
+decay = 0.004, C = 10
+decay = 0.005, C = 0.001
+decay = 0.01, C = 10000
+decay = 0.01, C = 100
+decay = 0.005, C = 0.01
+decay = 0.009000000000000001, C = 0.1
+decay = 0.009000000000000001, C = 10
+decay = 0.004, C = 1
+decay = 0.003, C = 10
+decay = 0.004, C = 0.01
+decay = 0.01, C = 1000
+decay = 0.004, C = 0.1
+decay = 0.004, C = 0.001
+decay = 0.003, C = 0.001
+decay = 0.009000000000000001, C = 1
+decay = 0.003, C = 0.1
+decay = 0.002, C = 10
+decay = 0.003, C = 0.01
+decay = 0.003, C = 1
+decay = 0.002, C = 0.1
+decay = 0.002, C = 0.01
+decay = 0.002, C = 1
+decay = 0.001, C = 10
+decay = 0.001, C = 1
+decay = 0.002, C = 0.001
+decay = 0.001, C = 0.001
+decay = 0.001, C = 0.01
+decay = 0.001, C = 0.1
+decay = 0.01, C = 10
+decay = 0.01, C = 0.01
+decay = 0.02, C = 10000
+decay = 0.02, C = 100
+decay = 0.01, C = 0.001
+decay = 0.01, C = 0.1
+decay = 0.02, C = 10
+decay = 0.02, C = 1000
+decay = 0.01, C = 1
+decay = 0.02, C = 1
+decay = 0.02, C = 0.001
+decay = 0.02, C = 0.01
+decay = 0.03, C = 10000
+decay = 0.02, C = 0.1
+decay = 0.03, C = 10
+decay = 0.03, C = 100
+decay = 0.03, C = 1000
+decay = 0.03, C = 1
+decay = 0.03, C = 0.001
+decay = 0.03, C = 0.01
+decay = 0.04, C = 10
+decay = 0.04, C = 10000
+decay = 0.03, C = 0.1
+decay = 0.04, C = 1
+decay = 0.08, C = 10000
+decay = 0.04, C = 100
+decay = 0.05, C = 10000
+decay = 0.04, C = 1000
+decay = 0.08, C = 1000
+decay = 0.06, C = 1000
+decay = 0.07, C = 10000
+decay = 0.06, C = 10000
+decay = 0.07, C = 1000
+decay = 0.08, C = 10
+decay = 0.07, C = 10
+decay = 0.05, C = 1000
+decay = 0.05, C = 10
+decay = 0.08, C = 100
+decay = 0.07, C = 100
+decay = 0.06, C = 100
+decay = 0.05, C = 100
+decay = 0.06, C = 10
+decay = 0.05, C = 1
+decay = 0.04, C = 0.1
+decay = 0.04, C = 0.001
+decay = 0.04, C = 0.01
+decay = 0.08, C = 1
+decay = 0.09, C = 1000
+decay = 0.09, C = 1
+decay = 0.09, C = 0.001
+decay = 0.07, C = 1
+decay = 0.09, C = 10000
+decay = 0.06, C = 1
+decay = 0.09, C = 0.1
+decay = 0.09, C = 0.01
+decay = 0.09, C = 100
+decay = 0.09, C = 10
+decay = 0.05, C = 0.01
+decay = 0.07, C = 0.1
+decay = 0.08, C = 0.01
+decay = 0.05, C = 0.1
+decay = 0.08, C = 0.001
+decay = 0.05, C = 0.001
+decay = 0.07, C = 0.01
+decay = 0.06, C = 0.001
+decay = 0.06, C = 0.1
+decay = 0.06, C = 0.01
+decay = 0.07, C = 0.001
+decay = 0.08, C = 0.1
+decay = 0.1, C = 10
+decay = 0.1, C = 1
+decay = 0.1, C = 100
+decay = 0.1, C = 0.001
+decay = 0.1, C = 1000
+decay = 0.1, C = 0.1
+decay = 0.1, C = 0.01
+decay = 0.1, C = 10000
+decay = 0.2, C = 10
+decay = 0.2, C = 0.001
+decay = 0.2, C = 1000
+decay = 0.2, C = 10000
+decay = 0.2, C = 0.1
+decay = 0.2, C = 100
+decay = 0.2, C = 0.01
+decay = 0.4, C = 10000
+decay = 0.2, C = 1
+decay = 0.30000000000000004, C = 10000
+decay = 0.5, C = 1000
+decay = 0.30000000000000004, C = 1000
+decay = 0.5, C = 100
+decay = 0.4, C = 100
+decay = 0.5, C = 10
+decay = 0.30000000000000004, C = 100
+decay = 0.4, C = 1000
+decay = 0.5, C = 10000
+decay = 0.30000000000000004, C = 10
+decay = 0.8, C = 100
+decay = 0.4, C = 10
+decay = 0.5, C = 1
+decay = 0.8, C = 1000
+decay = 0.8, C = 10000
+decay = 0.8, C = 10
+decay = 0.4, C = 1
+decay = 0.6000000000000001, C = 1000
+decay = 0.30000000000000004, C = 1
+decay = 0.7000000000000001, C = 10000
+decay = 0.7000000000000001, C = 1000
+decay = 0.7000000000000001, C = 100
+decay = 0.30000000000000004, C = 0.01
+decay = 0.5, C = 0.1
+decay = 0.6000000000000001, C = 100
+decay = 0.6000000000000001, C = 10
+decay = 0.5, C = 0.01
+decay = 0.6000000000000001, C = 10000
+decay = 0.7000000000000001, C = 10
+decay = 0.30000000000000004, C = 0.1
+decay = 0.4, C = 0.1
+decay = 0.4, C = 0.01
+decay = 0.5, C = 0.001
+decay = 0.8, C = 1
+decay = 0.30000000000000004, C = 0.001
+decay = 0.8, C = 0.1
+decay = 0.6000000000000001, C = 0.01
+decay = 0.6000000000000001, C = 0.001
+decay = 0.7000000000000001, C = 1
+decay = 0.4, C = 0.001
+decay = 0.6000000000000001, C = 1
+decay = 0.9, C = 10
+decay = 0.7000000000000001, C = 0.1
+decay = 0.8, C = 0.01
+decay = 0.9, C = 0.001
+decay = 0.6000000000000001, C = 0.1
+decay = 0.8, C = 0.001
+decay = 0.9, C = 10000
+decay = 0.9, C = 1
+decay = 0.9, C = 1000
+decay = 0.9, C = 100
+decay = 0.7000000000000001, C = 0.01
+decay = 0.9, C = 0.1
+decay = 0.7000000000000001, C = 0.001
+decay = 0.9, C = 0.01
+decay = 8.0, C = 10
+decay = 2.0, C = 100
+decay = 6.0, C = 100
+decay = 2.0, C = 10000
+decay = 2.0, C = 10
+decay = 6.0, C = 10
+decay = 6.0, C = 10000
+decay = 2.0, C = 1000
+decay = 8.0, C = 100
+decay = 7.0, C = 100
+decay = 7.0, C = 10000
+decay = 6.0, C = 1000
+decay = 7.0, C = 1
+decay = 5.0, C = 10000
+decay = 8.0, C = 1
+decay = 3.0, C = 10000
+decay = 5.0, C = 100
+decay = 3.0, C = 1000
+decay = 7.0, C = 1000
+decay = 3.0, C = 10
+decay = 1.0, C = 1000
+decay = 7.0, C = 10
+decay = 8.0, C = 0.01
+decay = 3.0, C = 100
+decay = 2.0, C = 1
+decay = 1.0, C = 1
+decay = 3.0, C = 1
+decay = 6.0, C = 1
+decay = 1.0, C = 10
+decay = 4.0, C = 100
+decay = 5.0, C = 10
+decay = 1.0, C = 100
+decay = 5.0, C = 1000
+decay = 4.0, C = 10000
+decay = 1.0, C = 0.1
+decay = 8.0, C = 1000
+decay = 7.0, C = 0.1
+decay = 1.0, C = 0.01
+decay = 4.0, C = 1000
+decay = 6.0, C = 0.1
+decay = 4.0, C = 1
+decay = 8.0, C = 10000
+decay = 1.0, C = 10000
+decay = 3.0, C = 0.1
+decay = 5.0, C = 1
+decay = 4.0, C = 10
+decay = 2.0, C = 0.01
+decay = 7.0, C = 0.01
+decay = 8.0, C = 0.001
+decay = 2.0, C = 0.1
+decay = 5.0, C = 0.1
+decay = 1.0, C = 0.001
+decay = 4.0, C = 0.1
+decay = 3.0, C = 0.001
+decay = 3.0, C = 0.01
+decay = 6.0, C = 0.01
+decay = 7.0, C = 0.001
+decay = 8.0, C = 0.1
+decay = 6.0, C = 0.001
+decay = 4.0, C = 0.001
+decay = 4.0, C = 0.01
+decay = 2.0, C = 0.001
+decay = 5.0, C = 0.01
+decay = 5.0, C = 0.001
+decay = 60.0, C = 10000
+decay = 60.0, C = 1000
+decay = 60.0, C = 1
+decay = 60.0, C = 100
+decay = 60.0, C = 0.1
+decay = 70.0, C = 10
+decay = 70.0, C = 1
+decay = 60.0, C = 10
+decay = 70.0, C = 1000
+decay = 70.0, C = 0.1
+decay = 70.0, C = 100
+decay = 70.0, C = 0.001
+decay = 70.0, C = 10000
+decay = 50.0, C = 10000
+decay = 60.0, C = 0.01
+decay = 50.0, C = 100
+decay = 70.0, C = 0.01
+decay = 60.0, C = 0.001
+decay = 50.0, C = 1000
+decay = 50.0, C = 1
+decay = 50.0, C = 10
+decay = 40.0, C = 10
+decay = 50.0, C = 0.1
+decay = 40.0, C = 100
+decay = 40.0, C = 1000
+decay = 40.0, C = 10000
+decay = 50.0, C = 0.01
+decay = 40.0, C = 1
+decay = 50.0, C = 0.001
+decay = 40.0, C = 0.1
+decay = 30.0, C = 10000
+decay = 40.0, C = 0.01
+decay = 30.0, C = 100
+decay = 30.0, C = 1000
+decay = 30.0, C = 10
+decay = 30.0, C = 1
+decay = 20.0, C = 10000
+decay = 40.0, C = 0.001
+decay = 20.0, C = 1
+decay = 20.0, C = 100
+decay = 10.0, C = 10000
+decay = 20.0, C = 10
+decay = 30.0, C = 0.1
+decay = 30.0, C = 0.001
+decay = 20.0, C = 1000
+decay = 10.0, C = 1000
+decay = 10.0, C = 10
+decay = 10.0, C = 100
+decay = 10.0, C = 1
+decay = 30.0, C = 0.01
+decay = 9.0, C = 100
+decay = 20.0, C = 0.1
+decay = 9.0, C = 1
+decay = 9.0, C = 10000
+decay = 9.0, C = 1000
+decay = 20.0, C = 0.01
+decay = 9.0, C = 10
+decay = 20.0, C = 0.001
+decay = 10.0, C = 0.01
+decay = 9.0, C = 0.01
+decay = 9.0, C = 0.001
+decay = 10.0, C = 0.001
+decay = 10.0, C = 0.1
+decay = 9.0, C = 0.1
+decay = 600.0, C = 0.001
+decay = 500.0, C = 10000
+decay = 80.0, C = 1
+decay = 90.0, C = 1Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.87e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.044400691986083984 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.26e-01 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.02687811851501465 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.29e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.02166438102722168 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  6.10e-10 |  1.28e-15
+Done solving using GD in 0.03450345993041992 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  3.82e-16
+Done solving using GD in 0.02006387710571289 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  3.05e-10 |  0.00e+00
+Done solving using GD in 0.04718804359436035 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.024860858917236328 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.03841972351074219 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.87e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.020656347274780273 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.26e-01 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.08795762062072754 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.29e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.02303791046142578 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  3.05e-10 |  6.41e-16
+Done solving using GD in 0.021145105361938477 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  2.44e-09 |  0.00e+00
+Done solving using GD in 0.0646359920501709 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  4.88e-09 |  1.27e-16
+Done solving using GD in 0.12267231941223145 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.030405044555664062 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.46e-16 |  2.16e-16
+Done solving using GD in 0.020453691482543945 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.020868778228759766 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.26e-01 |  9.54e-12 |  1.85e-13
+Done solving using GD in 0.022611618041992188 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.29e-01 |  3.81e-11 |  8.57e-15
+Done solving using GD in 0.06072092056274414 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  6.10e-10 |  1.28e-15
+Done solving using GD in 0.02130722999572754 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  3.05e-10 |  0.00e+00
+Done solving using GD in 0.03359484672546387 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  0.00e+00
+Done solving using GD in 0.039620161056518555 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.07786798477172852 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.06354451179504395 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.02016162872314453 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.26e-01 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.024682998657226562 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.29e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.08650779724121094 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.53e-10 |  2.14e-16
+Done solving using GD in 0.0663137435913086 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  9.77e-09 |  2.14e-16
+Done solving using GD in 0.04437875747680664 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  2.55e-16
+Done solving using GD in 0.025481224060058594 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.020175695419311523 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.045389652252197266 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.028706073760986328 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.26e-01 |  3.73e-14 |  6.62e-16
+Done solving using GD in 0.03962969779968262 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.29e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.02275681495666504 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.09362363815307617 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  2.44e-09 |  0.00e+00
+Done solving using GD in 0.03841996192932129 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  1.22e-09 |  0.00e+00
+Done solving using GD in 0.019715309143066406 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.06257152557373047 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.06995034217834473 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.05373406410217285 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.26e-01 |  1.19e-12 |  2.32e-14
+Done solving using GD in 0.04678940773010254 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.29e-01 |  6.10e-10 |  1.35e-13
+Done solving using GD in 0.060834407806396484 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.0281527042388916 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  9.77e-09 |  0.00e+00
+Done solving using GD in 0.020061731338500977 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  2.55e-16
+Done solving using GD in 0.03618478775024414 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  1.86e-14 |  2.10e-16
+Done solving using GD in 0.041451454162597656 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.05533719062805176 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.046355247497558594 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       61 | -1.26e-01 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.034683942794799805 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.29e-01 |  1.16e-15 |  0.00e+00
+Done solving using GD in 0.039167165756225586 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  4.77e-12 |  0.00e+00
+Done solving using GD in 0.10581421852111816 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  9.77e-09 |  0.00e+00
+Done solving using GD in 0.0633847713470459 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  2.55e-16
+Done solving using GD in 0.05616331100463867 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  1.86e-14 |  2.10e-16
+Done solving using GD in 0.019611835479736328 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.02016901969909668 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  5.82e-16 |  4.22e-16
+Done solving using GD in 0.042281150817871094 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       71 | -1.26e-01 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.05765700340270996 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.29e-01 |  2.98e-13 |  0.00e+00
+Done solving using GD in 0.059928178787231445 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  2.38e-12 |  0.00e+00
+Done solving using GD in 0.021259784698486328 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  9.77e-09 |  0.00e+00
+Done solving using GD in 0.02546977996826172 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  1.22e-09 |  0.00e+00
+Done solving using GD in 0.019242048263549805 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.019858837127685547 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  5.82e-16 |  4.32e-16
+Done solving using GD in 0.023312091827392578 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.019958019256591797 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.26e-01 |  1.91e-11 |  3.71e-13
+Done solving using GD in 0.02275538444519043 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.29e-01 |  3.73e-14 |  0.00e+00
+Done solving using GD in 0.04752063751220703 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.49e-13 |  0.00e+00
+Done solving using GD in 0.05333518981933594 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.56e-07 |  1.07e-15
+Done solving using GD in 0.0850837230682373 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  4.88e-09 |  1.27e-16
+Done solving using GD in 0.05109262466430664 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.020390987396240234 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.03757882118225098 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.06935524940490723 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.26e-01 |  2.98e-13 |  5.74e-15
+Done solving using GD in 0.06820797920227051 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.29e-01 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.040518760681152344 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  7.63e-11 |  2.14e-16
+Done solving using GD in 0.020391464233398438 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.19e-12 |  0.00e+00
+Done solving using GD in 0.02092599868774414 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  1.22e-09 |  0.00e+00
+Done solving using GD in 0.08669757843017578 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.03790736198425293 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.82e-17 |  0.00e+00
+Done solving using GD in 0.028430938720703125 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.020319461822509766 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.26e-01 |  5.96e-13 |  1.17e-14
+Done solving using GD in 0.043067216873168945 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.29e-01 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.05643773078918457 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.19e-12 |  0.00e+00
+Done solving using GD in 0.0278165340423584 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  2.44e-09 |  0.00e+00
+Done solving using GD in 0.025969743728637695 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  2.55e-16
+Done solving using GD in 0.05684995651245117 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  1.86e-14 |  0.00e+00
+Done solving using GD in 0.046962738037109375 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.46e-16 |  2.16e-16
+Done solving using GD in 0.09648656845092773 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.019878149032592773 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.26e-01 |  9.54e-12 |  1.85e-13
+Done solving using GD in 0.13803791999816895 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.29e-01 |  4.66e-15 |  0.00e+00
+Done solving using GD in 0.0402219295501709 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  1.19e-12 |  0.00e+00
+Done solving using GD in 0.05226564407348633 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  2.44e-09 |  0.00e+00
+Done solving using GD in 0.03246164321899414 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.25e-04 |  2.44e-09 |  1.27e-16
+Done solving using GD in 0.0208432674407959 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -4.13e-03 |  1.86e-14 |  2.10e-16
+Done solving using GD in 0.023849964141845703 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -3.21e-02 |  1.46e-16 |  2.16e-16
+Done solving using GD in 0.019916772842407227 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       21 | -9.86e-02 |  1.46e-16 |  0.00e+00
+Done solving using GD in 0.04421114921569824 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       51 | -1.26e-01 |  1.91e-11 |  3.71e-13
+Done solving using GD in 0.03818392753601074 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.29e-01 |  2.33e-15 |  0.00e+00
+Done solving using GD in 0.03129005432128906 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       31 | -1.30e-01 |  7.63e-11 |  0.00e+00
+Done solving using GD in 0.022715091705322266 seconds
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+       41 | -1.30e-01 |  1.19e-12 |  0.00e+00
+Done solving using GD in 0.07547378540039062 seconds
+
+decay = 500.0, C = 1000
+decay = 600.0, C = 0.01
+decay = 80.0, C = 0.1
+decay = 600.0, C = 1
+decay = 500.0, C = 10
+decay = 90.0, C = 0.1
+decay = 500.0, C = 1
+decay = 90.0, C = 0.01
+decay = 80.0, C = 10
+decay = 600.0, C = 0.1
+decay = 100.0, C = 0.01
+decay = 80.0, C = 10000
+decay = 100.0, C = 10
+decay = 500.0, C = 100
+decay = 100.0, C = 0.1
+decay = 600.0, C = 10
+decay = 80.0, C = 1000
+decay = 100.0, C = 1
+decay = 500.0, C = 0.1
+decay = 600.0, C = 100
+decay = 80.0, C = 100
+decay = 80.0, C = 0.01
+decay = 100.0, C = 100
+decay = 90.0, C = 10000
+decay = 90.0, C = 1000
+decay = 90.0, C = 10
+decay = 500.0, C = 0.01
+decay = 500.0, C = 0.001
+decay = 90.0, C = 100
+decay = 90.0, C = 0.001
+decay = 100.0, C = 1000
+decay = 400.0, C = 10000
+decay = 200.0, C = 0.01
+decay = 80.0, C = 0.001
+decay = 100.0, C = 0.001
+decay = 100.0, C = 10000
+decay = 200.0, C = 0.001
+decay = 400.0, C = 1000
+decay = 200.0, C = 10
+decay = 200.0, C = 1
+decay = 300.0, C = 0.1
+decay = 400.0, C = 100
+decay = 400.0, C = 1
+decay = 200.0, C = 0.1
+decay = 400.0, C = 0.1
+decay = 400.0, C = 10
+decay = 200.0, C = 10000
+decay = 300.0, C = 0.001
+decay = 200.0, C = 100
+decay = 400.0, C = 0.01
+decay = 400.0, C = 0.001
+decay = 300.0, C = 0.01
+decay = 200.0, C = 1000
+decay = 300.0, C = 1
+decay = 300.0, C = 1000
+decay = 300.0, C = 100
+decay = 300.0, C = 10
+decay = 300.0, C = 10000
+decay = 600.0, C = 1000
+decay = 600.0, C = 10000
+decay = 5000.0, C = 100
+decay = 5000.0, C = 10
+decay = 5000.0, C = 0.1
+decay = 5000.0, C = 0.001
+decay = 5000.0, C = 1
+decay = 5000.0, C = 1000
+decay = 4000.0, C = 10000
+decay = 4000.0, C = 1000
+decay = 5000.0, C = 0.01
+decay = 4000.0, C = 100
+decay = 4000.0, C = 10
+decay = 4000.0, C = 1
+decay = 4000.0, C = 0.1
+decay = 4000.0, C = 0.01
+decay = 5000.0, C = 10000
+decay = 4000.0, C = 0.001
+decay = 3000.0, C = 10000
+decay = 2000.0, C = 100
+decay = 2000.0, C = 10000
+decay = 2000.0, C = 10
+decay = 3000.0, C = 1000
+decay = 3000.0, C = 0.1
+decay = 3000.0, C = 1
+decay = 3000.0, C = 0.01
+decay = 3000.0, C = 0.001
+decay = 3000.0, C = 100
+decay = 2000.0, C = 1
+decay = 2000.0, C = 1000
+decay = 2000.0, C = 0.1
+decay = 1000.0, C = 10000
+decay = 3000.0, C = 10
+decay = 2000.0, C = 0.01
+decay = 1000.0, C = 1000
+decay = 1000.0, C = 100
+decay = 2000.0, C = 0.001
+decay = 1000.0, C = 10
+decay = 1000.0, C = 0.001
+decay = 1000.0, C = 0.01
+decay = 1000.0, C = 1
+decay = 1000.0, C = 0.1
+decay = 900.0, C = 10000
+decay = 900.0, C = 10
+decay = 900.0, C = 1000
+decay = 900.0, C = 1
+decay = 900.0, C = 100
+decay = 900.0, C = 0.1
+decay = 900.0, C = 0.001
+decay = 900.0, C = 0.01
+decay = 800.0, C = 10000
+decay = 800.0, C = 100
+decay = 800.0, C = 10
+decay = 800.0, C = 1
+decay = 700.0, C = 0.001
+decay = 800.0, C = 0.01
+decay = 800.0, C = 0.1
+decay = 700.0, C = 10000
+decay = 800.0, C = 1000
+decay = 700.0, C = 0.1
+decay = 800.0, C = 0.001
+decay = 700.0, C = 0.01
+decay = 700.0, C = 1000
+decay = 700.0, C = 100
+decay = 700.0, C = 1
+decay = 700.0, C = 10
+decay = 10000.0, C = 0.001
+decay = 10000.0, C = 1
+decay = 10000.0, C = 0.1
+decay = 9000.0, C = 100
+decay = 9000.0, C = 10000
+decay = 10000.0, C = 100
+decay = 9000.0, C = 1000
+decay = 10000.0, C = 0.01
+decay = 9000.0, C = 1
+decay = 9000.0, C = 10
+decay = 10000.0, C = 1000
+decay = 10000.0, C = 10
+decay = 10000.0, C = 10000
+decay = 9000.0, C = 0.1
+decay = 9000.0, C = 0.01
+decay = 9000.0, C = 0.001
+decay = 8000.0, C = 10000
+decay = 8000.0, C = 1000
+decay = 8000.0, C = 100
+decay = 7000.0, C = 1
+decay = 8000.0, C = 10
+decay = 7000.0, C = 0.1
+decay = 6000.0, C = 10000
+decay = 8000.0, C = 1
+decay = 7000.0, C = 0.01
+decay = 7000.0, C = 10
+decay = 7000.0, C = 0.001
+decay = 8000.0, C = 0.01
+decay = 6000.0, C = 1000
+decay = 8000.0, C = 0.1
+decay = 7000.0, C = 10000
+decay = 8000.0, C = 0.001
+decay = 7000.0, C = 1000
+decay = 7000.0, C = 100
+decay = 6000.0, C = 10
+decay = 6000.0, C = 0.01
+decay = 6000.0, C = 0.1
+decay = 6000.0, C = 0.001
+decay = 6000.0, C = 100
+decay = 6000.0, C = 1
+ACC BASED SELECTION: (decay, C) = (0.30000000000000004, 100), ll = 0.19705947978765317, acc = 0.6236842105263158
+acc =  0.6236842105263158
+
+LL BASED SELECTION: (decay, C) = (4.0, 10000), ll = 0.21924365272566249, acc = 0.37578947368421056
+ll =  0.21924365272566249

@@ -1,0 +1,54 @@
+
+
+#### SELECTED HYPER-PARAMETERS
+(decay, C) = (0.30000000000000004, 100), ll = 0.19705947978765317, acc = 0.6236842105263158
+
+
+#### LEARNT MODEL
+Launching the solver GD...
+  n_iter  |    obj    |    step   |  rel_obj 
+      101 | -1.90e-01 |  1.19e-12 |  1.46e-16
+Done solving using GD in 0.02165365219116211 seconds
+
+baselines =  [0.15187092 0.01319206 0.03397494 0.         0.        ]
+
+adjacency =  [[0.         0.08753004 0.         0.         0.        ]
+ [0.02905052 0.         0.         0.37584429 0.45066211]
+ [0.         0.46118278 0.27187063 0.24299225 0.18283944]
+ [0.49255653 0.03818544 0.         0.         0.47644016]
+ [0.35290524 0.         0.1942759  0.31254372 0.        ]]
+
+
+
+#### PREDICTION PERFORMANCE ASSESSMENT
+
+training set prediction ....
+  accurracy =  0.6229 +/- 0.048
+  recall =  0.5832 +/- 0.0398
+  F1-score =  0.5988 +/- 0.0431
+  conf matrice = 
+ [[0.8  0.   0.2  0.   0.  ]
+ [0.33 0.43 0.   0.24 0.  ]
+ [0.26 0.   0.74 0.   0.  ]
+ [0.04 0.   0.33 0.62 0.01]
+ [0.27 0.02 0.33 0.06 0.32]]
+
+  label_ranking_average_precision_score =  0.7719 +/- 0.0294
+
+
+test set prediction ....
+  accurracy =  0.622 +/- 0.0472
+  recall =  0.5829 +/- 0.0384
+  F1-score =  0.5991 +/- 0.0405
+  Mean average rank =  0.7715 +/- 0.029
+  conf matrice = 
+ [[0.8  0.   0.2  0.   0.  ]
+ [0.33 0.43 0.   0.24 0.  ]
+ [0.26 0.   0.74 0.   0.  ]
+ [0.04 0.   0.33 0.63 0.01]
+ [0.27 0.01 0.33 0.06 0.32]]
+
+  label_ranking_average_precision_score =  0.7715 +/- 0.029
+
+
+
