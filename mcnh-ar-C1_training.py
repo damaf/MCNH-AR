@@ -108,21 +108,10 @@ for s in range(nb_time_series):
     # times are converted from second to minute
     kappa_data.append( time_serie_sampling_time[s][X_order:] / time_scaling)
     data_Y.append( covariates[s][X_order:, :] / time_scaling)
-                 
-  
-#----compute the number of EM intializations
-if nb_regimes == 1:     # VAR case
-    n_init = 1
-else:
-    #n_init = min(500, 10*(X_order+1)*(nb_regimes**2))
-    n_init = 200
-
-            
+                            
 #----log info
 print("D={}, K={}, N={}, nb_covariates={}".format(D, K, nb_time_series, nb_covariates))
 print("train_data_dir = {}, model_output_dir = {}".format(train_data_dir, model_output_dir))
-print("Number of initializations = ", n_init)
-
 
 
 #---------------------------------------------learning
@@ -134,8 +123,8 @@ model_output = hmc_var_parameter_learning (X_dim, X_order, nb_regimes, \
                                            data_X, initial_values, \
                                            innovation, nb_covariates, \
                                            covariate_type, data_Y, kappa_data, \
-                                           epsilon=1e-4, \
-                                           nb_init=n_init, nb_iters_per_init=5)
+                                           epsilon=1e-4, nb_iters=50, \
+                                           nb_init=5, nb_iters_per_init=5)
 
 #execution time estimation ends
 duration = time.time() - start_time
