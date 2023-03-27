@@ -14,7 +14,7 @@ from event_sequence_covariates import Event_Seq_Covariates
 import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), \
-                                             "../../PHMC-VAR/src")))
+                                             "src")))
 from gaussian_innovation import Gaussian_X
 from scaled_modified_forward_backward_recursion import modified_FB
 
