@@ -143,7 +143,7 @@ model_output = hmc_var_parameter_learning (X_dim, X_order, nb_regimes, \
                                            data_X, initial_values, \
                                            innovation, nb_covariates, \
                                            covariate_type, data_Y, \
-                                           epsilon=1e-4, \
+                                           epsilon=1e-4, nb_iters=500, \
                                            nb_init=n_init, nb_iters_per_init=5)
        
 
