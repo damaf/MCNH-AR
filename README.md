@@ -4,6 +4,7 @@
 This package contains the software programs designed for MCNH-AR model. It includes a learning algorithm, a prediction function and a state inference algorithm.
 
 ## Requirements
+ * Python3
  * Numpy
  * Scipy
  * Sklearn
