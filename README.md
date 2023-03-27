@@ -13,6 +13,15 @@ This package contains the software programs designed for MCNH-AR model. It inclu
  * Numba 0.45
  * Tick
 
+## Anesthesia data
+FC : heart frequency (HF)
+
+PAS : systolic blood pressure (SBP)
+
+PAM : average blood pressure (ABP)
+
+PAD : diastolic  blood pressure (DBP)
+
 ## MCNH-AR model: context variables C1 - Application to anesthesia data
 
 ### Launch model learning on anesthesia dataset
