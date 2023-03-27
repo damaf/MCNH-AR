@@ -10,7 +10,7 @@ This package contains the software programs designed for MCNH-AR model. It inclu
  * Scikit-learn
  * Pickle
  * Futures
- * Numba
+ * Numba 0.45
  * Tick
 
 ## MCNH-AR model: context variables $\mathcal{C}_1$ 
