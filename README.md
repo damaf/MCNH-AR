@@ -1,4 +1,4 @@
-# MCNH-AR model
+# MCNH-AR model 
 
 ## Markov Chain Non-Homogeneous Auto-Regressive (MCNH-AR) model
 This package contains the software programs designed for MCNH-AR model. It includes a learning algorithm, a prediction function and a state inference algorithm.
