@@ -132,7 +132,7 @@ model_output = hmc_var_parameter_learning (X_dim, X_order, nb_regimes, \
                                            innovation, nb_covariates, \
                                            covariate_type, data_Y, kappa_data, \
                                            epsilon=1e-4, nb_iters=500, \
-                                           nb_init=200, nb_iters_per_init=5)
+                                           nb_init=n_init, nb_iters_per_init=5)
 
 #execution time estimation ends
 duration = time.time() - start_time
