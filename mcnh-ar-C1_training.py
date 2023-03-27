@@ -112,6 +112,7 @@ for s in range(nb_time_series):
 #----log info
 print("D={}, K={}, N={}, nb_covariates={}".format(D, K, nb_time_series, nb_covariates))
 print("train_data_dir = {}, model_output_dir = {}".format(train_data_dir, model_output_dir))
+print("Number of initializations = 200")
 
 
 #---------------------------------------------learning
@@ -124,7 +125,7 @@ model_output = hmc_var_parameter_learning (X_dim, X_order, nb_regimes, \
                                            innovation, nb_covariates, \
                                            covariate_type, data_Y, kappa_data, \
                                            epsilon=1e-4, nb_iters=50, \
-                                           nb_init=5, nb_iters_per_init=5)
+                                           nb_init=200, nb_iters_per_init=5)
 
 #execution time estimation ends
 duration = time.time() - start_time
