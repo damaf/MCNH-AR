@@ -118,7 +118,6 @@ for s in range(nb_time_series):
 if nb_regimes == 1:     # VAR case
     n_init = 1
 else:
-    #n_init = min(500, 10*(X_order+1)*(nb_regimes**2))
     n_init = 200
 
             
