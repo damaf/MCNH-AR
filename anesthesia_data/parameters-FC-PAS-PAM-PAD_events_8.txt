@@ -8,38 +8,37 @@ Time,Event
 390,Bair hugger
 450,CEFAZOLINE_bolus
 540,pré-oxygénation
-840,SUFENTANIL_induction
-870,PROPOFOL_induction
-900,ATRACURIUM_induction
-930,Occlusion oculaire
-1290,intubation
-1560,SEVOFLURANE_continu
-1590,Ventilation contrôlé intubée
-1620,Oxygène 30%
-1650,Auscultation pulmonaire
-1680,Surveillance pression ballonnet
-1710,Manoeuvre Recrutement Alvéolaire
-1800,Pose sonde T°C
-2070,Auscultation pulmonaire
-2100,Surveillance points d'appui
-2250,SEVOFLURANE_continu
-2280,SUFENTANIL_bolus
-2340,Incision
-2880,Trocard sous-ombilical
-2940,Inflation pneumopéritoine
-3270,ATRACURIUM_bolus
-3600,Auscultation pulmonaire
-3630,Manoeuvre Recrutement Alvéolaire
-3930,Dissection espace prépéritonéal
-4260,Dissection cordon spermatique
-4500,Dissection cordon zone herniaire
-4800,SUFENTANIL_bolus
-5610,ATRACURIUM_bolus
-6990,Mise en place prothèse
-8730,Déflation pneumopéritoine
-8910,Fermeture
-9330,Pansement
-9360,stop sevoflurane
-10170,Contrôle de décurarisation
-10350,Décurarusation
-10830,Mise en place du patient
+720,SUFENTANIL_induction
+750,PROPOFOL_induction
+780,ATRACURIUM_induction
+840,Occlusion oculaire
+1140,intubation
+1200,SEVOFLURANE_continu
+1230,Ventilation contrôlé intubée
+1260,Oxygène 30%
+1290,Auscultation pulmonaire
+1320,Surveillance pression ballonnet
+1350,Manoeuvre Recrutement Alvéolaire
+1440,Pose sonde T°C
+1710,Auscultation pulmonaire
+1740,Surveillance points d'appui
+1770,SEVOFLURANE_continu
+1890,SUFENTANIL_bolus
+1950,Incision
+2130,Trocard sous-ombilical
+2190,Inflation pneumopéritoine
+2430,Auscultation pulmonaire
+2460,Manoeuvre Recrutement Alvéolaire
+2760,Dissection espace prépéritonéal
+3090,Dissection cordon spermatique
+3120,ATRACURIUM_bolus
+3330,Dissection cordon zone herniaire
+3630,SUFENTANIL_bolus
+4680,Mise en place prothèse
+6180,Déflation pneumopéritoine
+6240,Fermeture
+6660,Pansement
+6690,stop sevoflurane
+7380,Contrôle de décurarisation
+7500,Décurarusation
+7980,Mise en place du patient

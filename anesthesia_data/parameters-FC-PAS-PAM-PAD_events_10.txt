@@ -22,23 +22,23 @@ Time,Event
 1500,Pose sonde T°C
 1770,Auscultation pulmonaire
 1800,Surveillance points d'appui
-1830,SEVOFLURANE_continu
-1950,SUFENTANIL_bolus
-2010,Incision
+1890,SEVOFLURANE_continu
+2160,SUFENTANIL_bolus
+2220,Incision
 2250,Trocard sous-ombilical
-2310,Inflation pneumopéritoine
-2730,Auscultation pulmonaire
-2760,Manoeuvre Recrutement Alvéolaire
-3060,Dissection espace prépéritonéal
-3240,ATRACURIUM_bolus
-3390,Dissection cordon spermatique
-3630,Dissection cordon zone herniaire
-3930,SUFENTANIL_bolus
-5160,Mise en place prothèse
-7020,Déflation pneumopéritoine
-7140,Fermeture
-7620,Pansement
-7650,stop sevoflurane
-8460,Contrôle de décurarisation
-8580,Décurarusation
-9000,Mise en place du patient
+2520,Inflation pneumopéritoine
+2550,Auscultation pulmonaire
+2580,Manoeuvre Recrutement Alvéolaire
+2880,Dissection espace prépéritonéal
+3180,ATRACURIUM_bolus
+3210,Dissection cordon spermatique
+3450,Dissection cordon zone herniaire
+3750,SUFENTANIL_bolus
+4740,Mise en place prothèse
+6720,Déflation pneumopéritoine
+6780,Fermeture
+7140,Pansement
+7170,stop sevoflurane
+7980,Contrôle de décurarisation
+8100,Décurarusation
+8520,Mise en place du patient

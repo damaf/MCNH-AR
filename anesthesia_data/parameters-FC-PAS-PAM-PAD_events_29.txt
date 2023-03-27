@@ -7,41 +7,38 @@ Time,Event
 150,pose VVP (cathlon)
 390,Bair hugger
 450,CEFAZOLINE_bolus
-540,pré-oxygénation
-900,SUFENTANIL_induction
-930,PROPOFOL_induction
-960,ATRACURIUM_induction
-990,Occlusion oculaire
-1470,intubation
-1980,SEVOFLURANE_continu
-2010,Ventilation contrôlé intubée
-2040,Oxygène 30%
-2070,Auscultation pulmonaire
-2100,Surveillance pression ballonnet
-2130,Manoeuvre Recrutement Alvéolaire
-2220,Pose sonde T°C
-2490,Auscultation pulmonaire
-2520,Surveillance points d'appui
-2550,SEVOFLURANE_continu
-2670,SUFENTANIL_bolus
-2730,Incision
-3300,ATRACURIUM_bolus
-3570,Trocard sous-ombilical
-3630,Inflation pneumopéritoine
-5370,Auscultation pulmonaire
-5400,Manoeuvre Recrutement Alvéolaire
-5640,ATRACURIUM_bolus
-5700,Dissection espace prépéritonéal
-6030,Dissection cordon spermatique
-6270,Dissection cordon zone herniaire
-6570,SUFENTANIL_bolus
-7980,ATRACURIUM_bolus
-10320,ATRACURIUM_bolus
-10440,Mise en place prothèse
-12480,Déflation pneumopéritoine
-12660,Fermeture
-13020,Pansement
-13050,stop sevoflurane
-13620,Contrôle de décurarisation
-13740,Décurarusation
-14100,Mise en place du patient
+600,pré-oxygénation
+780,SUFENTANIL_induction
+810,PROPOFOL_induction
+840,ATRACURIUM_induction
+870,Occlusion oculaire
+1170,intubation
+1320,SEVOFLURANE_continu
+1350,Ventilation contrôlé intubée
+1380,Oxygène 30%
+1410,Auscultation pulmonaire
+1440,Surveillance pression ballonnet
+1470,Manoeuvre Recrutement Alvéolaire
+1560,Pose sonde T°C
+1830,Auscultation pulmonaire
+1860,Surveillance points d'appui
+1890,SEVOFLURANE_continu
+2010,SUFENTANIL_bolus
+2070,Incision
+2310,Trocard sous-ombilical
+2370,Inflation pneumopéritoine
+2610,Auscultation pulmonaire
+2640,Manoeuvre Recrutement Alvéolaire
+2940,Dissection espace prépéritonéal
+3240,ATRACURIUM_bolus
+3270,Dissection cordon spermatique
+3510,Dissection cordon zone herniaire
+3810,SUFENTANIL_bolus
+4860,Mise en place prothèse
+6780,Déflation pneumopéritoine
+6960,Fermeture
+7320,Pansement
+7350,stop sevoflurane
+8220,Contrôle de décurarisation
+8280,Décurarusation
+8700,Mise en place du patient
