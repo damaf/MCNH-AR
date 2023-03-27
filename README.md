@@ -6,9 +6,10 @@ This package contains the software programs designed for MCNH-AR model. It inclu
 ## Requirements
  * Numpy
  * Scipy
+ * Sklearn
  * Pickle
  * Futures
- * Sklearn
+ * Numba
  * Tick
 
 ## MCNH-AR model: context variables $\mathcal{C}_1$ 
