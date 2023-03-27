@@ -7,7 +7,7 @@ This package contains the software programs designed for MCNH-AR model. It inclu
  * Python3
  * Numpy
  * Scipy
- * Sklearn
+ * Scikit-learn
  * Pickle
  * Futures
  * Numba
