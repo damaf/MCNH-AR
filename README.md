@@ -22,14 +22,14 @@ PAM : average blood pressure (ABP)
 
 PAD : diastolic  blood pressure (DBP)
 
-## MCNH-AR model: context variables C1 - Application to anesthesia data
+## NHMC-AR model: context variables C1 - Application to anesthesia data
 
 ### Launch model learning on anesthesia dataset
 ```{python}
 python3 -O mcnh-ar-C1_training.py train_data_dir nb_time_series model_output_dir ar_order nb_states
 ```
 
-## MCNH-AR model: context variables C2 - Application to anesthesia data
+## NHMC-AR model: context variables C2 - Application to anesthesia data
 
 ### Launch model learning on anesthesia dataset
 ```{python}
