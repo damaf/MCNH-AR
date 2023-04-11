@@ -1,7 +1,7 @@
-# MCNH-AR model 
+# NHMC-AR model 
 
-## Markov Chain Non-Homogeneous Auto-Regressive (MCNH-AR) model
-This package contains the software programs designed for MCNH-AR model. It includes a learning algorithm, a prediction function and a state inference algorithm.
+## Non-Homogeneous Markov Chain  Auto-Regressive (NHMC-AR) model,
+This package contains the software programs designed for NHMC-AR model. It includes a learning algorithm, a prediction function and a state inference algorithm.
 
 ## Requirements
  * Python 3.6
