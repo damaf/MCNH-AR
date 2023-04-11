@@ -1,6 +1,6 @@
 # NHMC-AR model 
 
-## Non-Homogeneous Markov Chain  Auto-Regressive (NHMC-AR) model,
+## Non-Homogeneous Markov Chain  Auto-Regressive (NHMC-AR) model
 This package contains the software programs designed for NHMC-AR model. It includes a learning algorithm, a prediction function and a state inference algorithm.
 
 ## Requirements
