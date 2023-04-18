@@ -22,7 +22,7 @@ PAM : average blood pressure (ABP)
 
 PAD : diastolic  blood pressure (DBP)
 
-## NHMC-AR model: contextual variables extracted using the Hawkes point process framework
+## NHMC-AR model: contextual variables extracted using the Hawkes point process framework - Application to anesthesia data
 
 ### Launch model learning on anesthesia dataset
 ```{python}
