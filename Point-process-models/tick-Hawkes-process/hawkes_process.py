@@ -177,55 +177,7 @@ def filter_out_events(temporal_events, events_to_be_ignored, event_categories):
 #### Sources: https://gitter.im/xdata-tick/Lobby?at=5db99011e1c5e91508ffd25d
 #    https://x-datainitiative.github.io/tick/
 #    https://github.com/X-DataInitiative/tick/issues/133#issuecomment-495999841
-#
-### Issue about the optimization of Hawkes processes likelihood 
-# It is very complex to optimize Hawkes processes likelihood. There are no 
-# convergence guarantee as the loss function is not gradient Lipschitz.
-#
-## Errors obtain when trying likelihood optimization 
-# 1) RuntimeError: The sum of the influence on someone cannot be negative. 
-#   Maybe did you forget to add a positive constraint to your proximal operator
-# 
-# - Explication: I mean the vector at the failing iteration. 
-#  Shortly, at each step you do w_i <- max(w - g(w), 0)_i where g is the 
-#  gradient of the loss and w is the vector of parameters.
-#  If at any step w is full of zero then you will have the error message
-#  
-## Solutions:
-#   1) try better initial parameters. For intance initialize with 
-#      'least-squares' estimation ----> Used in the sequel
-#   2) try smaller learning rate  
-#   3) maybe deactivate linesearch. For 'gd' and 'agd' solvers. 
-#      This is done as follows hawkes_learner_Exp._solver_obj.linesearch = False.
-#      NB: On my data, the drawback of this method is its very slow 
-#      convergence speed. In fact, convergence is not reached even after 
-#      10000 iterations.
-#
-## Available solver definition
-#  - 'gd'   Proximal gradient descent
-#  - 'agd'  Accelerated proximal  gradient descent
-#  - 'bfgs' Broyden, Fletcher, Goldfarb, and Shannon (quasi-newton). It only 
-#    supports L2 penalization.
-#  - 'svrg' Stochastic Variance Reduced Gradient
-#
-#  These solvers are all gradient descent algorithms. Therefore, they need 
-#  a parameter 'step-size' which defines the step of the gradient descent 
-#  at each iteration. This parameter can be fixed or tune automatically.
-#
-#  In 'gd' and 'agd', backtracking linesearch algorithm can be used to 
-#  automatically tune the 'step-size'. 
-#
-#  Similarly, in 'bfgs' linesearch algorithm is used. Besides, the gradient
-#  descent direction is carefully chosen in order to accelerate convergence.  
-#
-#  However, in 'svrg' is be chosen by Barzilai Borwein rule. This choice is 
-#  much more adaptive and should be used if optimal step if difficult to obtain.
-#  _hawkes_learner_Exp._solver_obj.step_type = 'bb'
-#
-## In the subsequent, I use likelihood optimization through 'svrg' solver and
-#  elasticnet penalization. The 'step-size' is chosen by Barzilai Borwein rule.
-#
-    
+#    
 ## @fn
 #
 def expKernel_hawkes_learner(hawkes_events_timestamps, decay, C, \
