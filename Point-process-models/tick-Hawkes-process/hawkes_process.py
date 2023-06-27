@@ -20,9 +20,6 @@ from tick.hawkes import HawkesExpKern, HawkesSumGaussians
 from util_functions import hawkes_estimated_intensity
 
 
-
-
-
 ##############################################################################
 #             DATA PREPROCESSING
 ##############################################################################
@@ -106,7 +103,6 @@ def hawkes_data_preprocessing(temporal_events: list, events_to_be_ignored, \
             fil_temp_events_ID, event_categories, categories_name)
     
     
-
 ## @fn
 #  @brief Filters out events within 'events_to_be_ignored' from temporal_events.
 #   Then remplace event names by category ID.
@@ -169,7 +165,6 @@ def filter_out_events(temporal_events, events_to_be_ignored, event_categories):
     return (output1, output2)
     
     
-
 ##############################################################################
 #      HAWKES PROCESS - Exponential Kernel
 ##############################################################################
@@ -179,7 +174,6 @@ def filter_out_events(temporal_events, events_to_be_ignored, event_categories):
 #    https://github.com/X-DataInitiative/tick/issues/133#issuecomment-495999841
 #    
 ## @fn
-#
 def expKernel_hawkes_learner(hawkes_events_timestamps, decay, C, \
                              max_iter=10000, verbose=False):
               
