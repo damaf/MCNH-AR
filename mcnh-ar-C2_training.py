@@ -13,12 +13,10 @@ Created on Aug 7 2022
 #   * train_data_dir Name of the directory in which training data must be loaded.
 #   * nb_time_series The number of time series that should be considered in train_data_dir.
 #   * model_output_dir The name of the directory in which the trained model has to be saved.
-#   * D Autoregressive order.
-#   * K Number of regimes.
+#   * D/ar_order Autoregressive order.
+#   * K/nb_states Number of regimes.
 #   * features_file The file that contains the features extracted based on 
 #     Hawkes process
-#   * minus_baseline If true Hawkes baseline are subtracted from features.
-#     Two values allowed, 0 for false and 1 for true
 #
 ##############################################################################
 
