@@ -13,9 +13,8 @@ Created on June 22 2022
 #   * train_data_dir Name of the directory in which training data must be loaded.
 #   * nb_time_series The number of time series that should be considered in train_data_dir.
 #   * model_output_dir The name of the directory in which the trained model has to be saved.
-#   * D Autoregressive order.
-#   * K Number of regimes.
-#   * nb_covariates The number of covariates to be used
+#   * D/ar_order Autoregressive order.
+#   * K/nb_states Number of regimes.
 #
 ##############################################################################
 
